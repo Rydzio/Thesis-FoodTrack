@@ -1,0 +1,79 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "Group",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "GroupID",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "CreationDate",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "GroupPerUser",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "UserID",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "CreationDate",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Invitation",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "GroupID",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "IsAccepted",
+          "order": "DESCENDING"
+        },
+        {
+          "fieldPath": "SentDate",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Invitation",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "ReceiverID",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "SentDate",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Item",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "IsDone",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "ExpiryDate",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}
