@@ -1,0 +1,177 @@
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "1X7-Y3-aOA"; */
+"1X7-Y3-aOA.normalTitle" = "Zapisz";
+
+/* Class = "UILabel"; text = "Pick the expiration date"; ObjectID = "2Ku-qc-CU4"; */
+"2Ku-qc-CU4.text" = "Podaj datę ważności";
+
+/* Class = "UITextField"; placeholder = "Repeat New Password"; ObjectID = "4OM-kC-V0f"; */
+"4OM-kC-V0f.placeholder" = "Powtórz nowe hasło";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "4ur-zN-kQ2"; */
+"4ur-zN-kQ2.placeholder" = "Email";
+
+/* Class = "UIViewController"; title = "Login View Controller"; ObjectID = "5VS-ZF-P6z"; */
+"5VS-ZF-P6z.title" = "Login View Controller";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "6rx-ng-qxQ"; */
+"6rx-ng-qxQ.placeholder" = "Hasło";
+
+/* Class = "UITextField"; text = "admin1234"; ObjectID = "6rx-ng-qxQ"; */
+"6rx-ng-qxQ.text" = "admin1234";
+
+/* Class = "UITextField"; placeholder = "Repeat New Email"; ObjectID = "9Oh-9g-ucZ"; */
+"9Oh-9g-ucZ.placeholder" = "Powtórz nowy email";
+
+/* Class = "UITableViewController"; title = "InvitationTableViewController"; ObjectID = "9TU-Oj-qdN"; */
+"9TU-Oj-qdN.title" = "InvitationTableViewController";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "9gi-eo-bk4"; */
+"9gi-eo-bk4.text" = "Podtytuł";
+
+/* Class = "UILabel"; text = "Change Your Email"; ObjectID = "9qp-dl-BKo"; */
+"9qp-dl-BKo.text" = "Zmień email";
+
+/* Class = "UITableViewController"; title = "LanguageTableViewController"; ObjectID = "AYg-6r-D6b"; */
+"AYg-6r-D6b.title" = "LanguageTableViewController";
+
+/* Class = "UITextField"; placeholder = "User Nickname"; ObjectID = "Dmu-x8-bPs"; */
+"Dmu-x8-bPs.placeholder" = "Nazwa użytkownika";
+
+/* Class = "UITableViewController"; title = "ItemsTableViewController"; ObjectID = "F3a-N2-ZWD"; */
+"F3a-N2-ZWD.title" = "ItemsTableViewController";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "HwQ-iq-JhA"; */
+"HwQ-iq-JhA.title" = "Ustawienia";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "Id5-7o-36D"; */
+"Id5-7o-36D.normalTitle" = "ZAPISZ";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "J9B-uf-Tsq"; */
+"J9B-uf-Tsq.placeholder" = "Email";
+
+/* Class = "UITextField"; text = "admin@foodtrack.com"; ObjectID = "J9B-uf-Tsq"; */
+"J9B-uf-Tsq.text" = "admin@foodtrack.com";
+
+/* Class = "UISearchBar"; placeholder = "Search item"; ObjectID = "MjB-KE-7yd"; */
+"MjB-KE-7yd.placeholder" = "Znajdź artykuł";
+
+/* Class = "UISearchBar"; MjB-KE-7yd.scopeButtonTitles[0] = "All"; ObjectID = "MjB-KE-7yd"; */
+"MjB-KE-7yd.scopeButtonTitles[0]" = "Wszystkie";
+
+/* Class = "UISearchBar"; MjB-KE-7yd.scopeButtonTitles[1] = "Fruit"; ObjectID = "MjB-KE-7yd"; */
+"MjB-KE-7yd.scopeButtonTitles[1]" = "Owoce";
+
+/* Class = "UISearchBar"; MjB-KE-7yd.scopeButtonTitles[2] = "Vegie"; ObjectID = "MjB-KE-7yd"; */
+"MjB-KE-7yd.scopeButtonTitles[2]" = "Warzywa";
+
+/* Class = "UISearchBar"; MjB-KE-7yd.scopeButtonTitles[3] = "Dairy"; ObjectID = "MjB-KE-7yd"; */
+"MjB-KE-7yd.scopeButtonTitles[3]" = "Nabiał";
+
+/* Class = "UISearchBar"; MjB-KE-7yd.scopeButtonTitles[4] = "Grain"; ObjectID = "MjB-KE-7yd"; */
+"MjB-KE-7yd.scopeButtonTitles[4]" = "Zborze";
+
+/* Class = "UISearchBar"; MjB-KE-7yd.scopeButtonTitles[5] = "Protein"; ObjectID = "MjB-KE-7yd"; */
+"MjB-KE-7yd.scopeButtonTitles[5]" = "Białko";
+
+/* Class = "UISearchBar"; MjB-KE-7yd.scopeButtonTitles[6] = "Sweet"; ObjectID = "MjB-KE-7yd"; */
+"MjB-KE-7yd.scopeButtonTitles[6]" = "Słodycze";
+
+/* Class = "UITableViewController"; title = "SettingsTableViewController"; ObjectID = "NYW-Sc-YbR"; */
+"NYW-Sc-YbR.title" = "SettingsTableViewController";
+
+/* Class = "UIBarButtonItem"; title = "AAA"; ObjectID = "P5p-VJ-kx1"; */
+"P5p-VJ-kx1.title" = "AAA";
+
+/* Class = "UITextField"; placeholder = "Old Password"; ObjectID = "Rol-9q-krq"; */
+"Rol-9q-krq.placeholder" = "Stare hasło";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "RqK-2F-I7t"; */
+"RqK-2F-I7t.text" = "Tytuł";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "TJI-sb-fBC"; */
+"TJI-sb-fBC.text" = "Tytuł";
+
+/* Class = "UILabel"; text = "Change Your Password"; ObjectID = "U8T-Yz-cUd"; */
+"U8T-Yz-cUd.text" = "Zmień hasło";
+
+/* Class = "UITextField"; placeholder = "New Email"; ObjectID = "UnS-yo-jOP"; */
+"UnS-yo-jOP.placeholder" = "Nowy email";
+
+/* Class = "UIViewController"; title = "Register View Controller"; ObjectID = "V7B-VF-d5P"; */
+"V7B-VF-d5P.title" = "Register View Controller";
+
+/* Class = "UIViewController"; title = "AddNewItemViewController"; ObjectID = "WCn-4U-0nW"; */
+"WCn-4U-0nW.title" = "AddNewItemViewController";
+
+/* Class = "UIBarButtonItem"; title = "OptionsButton"; ObjectID = "X0Y-Z0-qkm"; */
+"X0Y-Z0-qkm.title" = "OptionsButton";
+
+/* Class = "UIButton"; normalTitle = "Log In"; ObjectID = "Xbo-fg-43Q"; */
+"Xbo-fg-43Q.normalTitle" = "Zaloguj";
+
+/* Class = "UITextField"; placeholder = "Product Name"; ObjectID = "doQ-eg-llS"; */
+"doQ-eg-llS.placeholder" = "Nazwa Produktu";
+
+/* Class = "UITableViewController"; title = "InvitateTableViewController"; ObjectID = "eht-gQ-5RJ"; */
+"eht-gQ-5RJ.title" = "InvitateTableViewController";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "eiB-O5-rzE"; */
+"eiB-O5-rzE.placeholder" = "Hasło";
+
+/* Class = "UITextField"; placeholder = "Repeat Password"; ObjectID = "fC7-jW-Q3R"; */
+"fC7-jW-Q3R.placeholder" = "Powtórz hasło";
+
+/* Class = "UILabel"; text = "🎯 FoodTrack"; ObjectID = "fDY-c2-4he"; */
+"fDY-c2-4he.text" = "🎯 FoodTrack";
+
+/* Class = "UITextField"; placeholder = "Repeat Email"; ObjectID = "hvV-Wu-eAe"; */
+"hvV-Wu-eAe.placeholder" = "Powtórz email";
+
+/* Class = "UINavigationItem"; title = "Invitation"; ObjectID = "jUT-sL-dmL"; */
+"jUT-sL-dmL.title" = "Zaproszenia";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "khm-UI-loa"; */
+"khm-UI-loa.placeholder" = "Nowe hasło";
+
+/* Class = "UILabel"; text = "Pick the food type"; ObjectID = "mWY-dW-fHq"; */
+"mWY-dW-fHq.text" = "Wybierz kategorię spożywczą";
+
+/* Class = "UITableViewController"; title = "MainTableViewController"; ObjectID = "mec-Zu-eRs"; */
+"mec-Zu-eRs.title" = "MainTableViewController";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "oFo-xB-ofM"; */
+"oFo-xB-ofM.normalTitle" = "Zarejestruj";
+
+/* Class = "UISearchBar"; placeholder = "Invite Users With Nickname"; ObjectID = "oMz-EB-9kI"; */
+"oMz-EB-9kI.placeholder" = "Invite Users With Nickname";
+
+/* Class = "UINavigationItem"; title = "Register"; ObjectID = "ogM-Yu-YMO"; */
+"ogM-Yu-YMO.title" = "Zarejestruj";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "oy9-CK-Tqn"; */
+"oy9-CK-Tqn.normalTitle" = "Zarejestruj";
+
+/* Class = "UILabel"; text = "To confirm all changes, please provide current password"; ObjectID = "pIU-Kw-dqB"; */
+"pIU-Kw-dqB.text" = "Aby potwierdzić zmiany, podaj aktualnee hasło";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "pco-eR-1d2"; */
+"pco-eR-1d2.placeholder" = "Nazwa użytkownika";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "rLR-dZ-sX6"; */
+"rLR-dZ-sX6.title" = " ";
+
+/* Class = "UINavigationItem"; title = "Profile"; ObjectID = "tmC-zo-yhv"; */
+"tmC-zo-yhv.title" = "Profil";
+
+/* Class = "UITextField"; placeholder = "User Email"; ObjectID = "tqH-3A-Mlr"; */
+"tqH-3A-Mlr.placeholder" = "Email użytkownika";
+
+/* Class = "UINavigationItem"; title = "Log In"; ObjectID = "ucI-rU-w5j"; */
+"ucI-rU-w5j.title" = "Zaloguj";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "uvZ-2g-Osh"; */
+"uvZ-2g-Osh.text" = "Tytuł";
+
+/* Class = "UIButton"; normalTitle = "Log In"; ObjectID = "xmi-mo-Vnf"; */
+"xmi-mo-Vnf.normalTitle" = "Zaloguj";
